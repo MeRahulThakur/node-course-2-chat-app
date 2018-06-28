@@ -1,6 +1,6 @@
 {
-  "name": "Air Horner",
-  "short_name": "Air Horner",
+  "name": "Chat App",
+  "short_name": "CApp",
   "icons": [{
         "src": "images/touch/Airhorner_128.png",
         "type": "image/png",
@@ -20,5 +20,6 @@
       }],
   "start_url": "/index.html",
   "display": "standalone",
-  "background_color": "#2196F3"
+  "background_color": "#2196F3",
+  "theme_color": "#2F3BA2"
 }
